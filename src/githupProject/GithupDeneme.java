@@ -18,6 +18,11 @@ public class GithupDeneme {
         bu karakterin bir harf olup olmadıgını kontrol edin.
         Harf ise büyük veya kucuk harf oldugunu konsola yazdırın
         Harf degilse konsola "Harf Degil" yazdırın
+
+
+
+
+        sdffhggkhg
                 */
 
 
