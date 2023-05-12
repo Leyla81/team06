@@ -24,6 +24,7 @@ public class GithupDeneme {
 
         sdffhggkhg
         kodler ekledim
+        githup da hep hata alıyoruz
                 */
 
 
